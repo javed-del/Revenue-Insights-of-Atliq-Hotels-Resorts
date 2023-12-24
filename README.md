@@ -6,4 +6,5 @@ My meticulously structured dataset, consisting of dimensions and fact files, for
 
 Among our key findings are a stable Average Daily Rate (ADR), a robust 57% occupancy rate, and an impressive guest satisfaction rating of 3.62.
 
-Live Dashboard link: https://lnkd.in/gxYDgbCs
+Live Dashboard link: [https://lnkd.in/gxYDgbCs
+](https://app.powerbi.com/view?r=eyJrIjoiZjc3M2RjMzYtYjFjNS00NTFlLWFiNDEtZDJjYzQxODJiYzk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)https://app.powerbi.com/view?r=eyJrIjoiZjc3M2RjMzYtYjFjNS00NTFlLWFiNDEtZDJjYzQxODJiYzk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
